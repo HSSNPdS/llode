@@ -1,0 +1,104 @@
+/*
+Colors:
+
+#E67B81
+#81C9E2
+
+#d6e2e9
+
+#8C8C97
+#94B2C6
+#D2DDE2
+
+*/
+
+.btn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #94b2c6;
+  padding: 10px 20px 10px 20px;
+  border: solid #5d8aa8 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #496f89;
+  text-decoration: none;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background: #94b2c6;
+    border: solid #5d8aa8 2px;
+}
+
+.btn-primary:hover {
+  background: #496f89;
+}
+
+
+.page_header {
+    height: 60px;
+    background-color: #181818;
+}
+
+.page_header-title {
+    padding-top: 10px;
+    color: #FFF;
+}
+
+.page_footer {
+    position:fixed;
+    padding: 0 20px;
+    left:0px;
+    bottom:0px;
+    height:60px;
+    width:100%;
+    background-color: #181818;
+}
+
+.page_footer img{
+    width: 50px;
+    height: 50px;
+}
+
+.content_generator {
+    margin-bottom: 60px;
+}
+
+.lero-generator {
+    background: #e2eaef;
+    padding: 20px 0;
+    margin: 20px 0;
+    border-radius: 10px;
+    height: 48px;
+}
+
+.lero-generator label,
+.lero-generator input {
+    display: inline-block;
+}
+.lero-generator label {
+    /*padding: 4px 0 0;*/
+    font-size: 1.3em;
+}
+.lero-generator input[type=text]{
+    padding: 4px;
+    border: 2px solid #E67B81;
+    border-radius: 5px;
+    font-size: 1.3em;
+}
+
+.lero-generator-output {
+    padding: 40px;
+    color: #000;
+    font-size: 1.1em;
+    line-height: 1.6em;
+    background: #e2eaef;
+    border-radius: 10px;
+    min-height: 200px;
+}
