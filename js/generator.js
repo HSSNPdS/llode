@@ -30,7 +30,7 @@ var LeroLero = (function() {
         "É importante questionar o quanto resumir e refutar é essêncial ",
         "Neste sentido, leia Nietsche ",
         "Evidentemente, eu sou um homem simples ",
-        "Por conseguinte, engraçado ele ja ter visto seu penis",
+        "Por conseguinte, engraçado ele ja ter visto seu penis ",
         "É claro que ",
         "Podemos já vislumbrar o modo pelo qual ",
         "Desta maneira, ",
